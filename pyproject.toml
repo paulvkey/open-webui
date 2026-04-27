@@ -1,6 +1,6 @@
 [project]
 name = "open-hai"
-description = "Open HAI"
+description = "Open EAI"
 authors = [
     { name = "Timothy Jaeryang Baek", email = "tim@openwebui.com" }
 ]
